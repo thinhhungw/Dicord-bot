@@ -96,6 +96,9 @@ client.login('YOUR_BOT_TOKEN');
 - Open Discord and check if your bot is online in the server.
 - If it's online, congratulations! Your bot is now running. 🎊
 
+## 📩 Contact me on Discord:
+Username: migu_2008
+
 ## VIDEO WILL HELP YOU SETUP
 - https://drive.google.com/file/d/1TigCCS-LZAnTlYjjyj_1DrichDq5eqVo/view?usp=sharing
 
