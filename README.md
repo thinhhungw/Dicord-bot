@@ -54,7 +54,7 @@ client.once('ready', () => {
 
 client.login('YOUR_BOT_TOKEN');
 ```
-### Lưu ý:
+### NOTE:
 - Replace 'YOUR_BOT_TOKEN' with your actual Discord bot token.
 - If you don’t have a token yet, proceed to the next step.
 ## 📌 STEP 7: Create a Discord Bot and Get a Token
