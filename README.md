@@ -99,8 +99,8 @@ client.login('YOUR_BOT_TOKEN');
 ## 📩 Contact me on Discord:
 - Username: migu_2008
 
-## VIDEO WILL HELP YOU SETUP
+## 🎬 VIDEO WILL HELP YOU SETUP
 - https://drive.google.com/file/d/1TigCCS-LZAnTlYjjyj_1DrichDq5eqVo/view?usp=sharing
 
-## HAVE FUN!
+## 🎉 HAVE FUN!
 - Follow my github profile for more :3
