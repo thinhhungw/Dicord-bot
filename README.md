@@ -100,7 +100,7 @@ client.login('YOUR_BOT_TOKEN');
 - Username: migu_2008
 
 ## 🎬 VIDEO WILL HELP YOU SETUP
-- https://drive.google.com/file/d/1TigCCS-LZAnTlYjjyj_1DrichDq5eqVo/view?usp=sharing
+- 
 
 ## 🎉 HAVE FUN!
 - Follow my github profile for more :3
